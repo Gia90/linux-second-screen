@@ -1,5 +1,5 @@
 # linux-second-screen
-App to use any android device as second monitor on linux.
+Open source solution to use any android device as second monitor on linux.
 
 # The power of the script
 Take a look at the [monitor.sh](https://github.com/Dlimaun/linux-second-screen/blob/master/monitor.sh).   
@@ -19,12 +19,5 @@ With this you don't need to pass any parameters to the script.
 ## if you still want to do it by hand
 Follow this [tutorial](https://github.com/Dlimaun/linux-second-screen/blob/master/tutorial.md).   
 
-# Similar apps
-~~This app will be made by the rage because we have a lot of apps for all other platforms
-Only linux isn't supported by those apps.~~   
-* [AirDisplay](https://avatron.com/applications/air-display/)
-* [AirDisplay Android](https://play.google.com/store/apps/details?id=com.avatron.airdisplay)
-* [Splashtop](http://www.splashtop.com/downloads)*
-* [Splashtop Extended Display Android](https://play.google.com/store/apps/details?id=com.splashtop.remote.xdisplay)
-* [iDisplay Android](https://play.google.com/store/apps/details?id=com.idisplay.virtualscreen)
-* [DuetDisplay](http://www.duetdisplay.com/)
+# Open source android VNC client
+* [bVNC](https://play.google.com/store/apps/details?id=com.iiordanov.freebVNC)
